@@ -7,6 +7,7 @@
 Here are some technologies that i used for this project:
 - **HTML:** Used for structuring the website's content.
 - **CSS:** Employed for styling and formatting the website's layout.
+**Stretch Goals Implementation**
 - **JavaScript:**  i have  utilized basic javascript  for implementing interactive features like dropdown menus and navigation.
 - **Font Awesome:** Used for adding icons for social media links.
 - **Responsive Design:** I have checked in inspect that it does work good in every mobile devices.Mostly in Iphone and samsung.
