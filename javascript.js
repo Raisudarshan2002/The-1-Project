@@ -25,3 +25,4 @@ global_menu_buttom.addEventListener('click', function () {
 global_close_buttom.addEventListener('click', function () {
     global_navigation.style.left = "-120%";
 })
+all

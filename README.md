@@ -1,6 +1,7 @@
 **Overview:**
  Its an individual Portfolio responsive website as a project work. Its just a simple website because i am still on a learning phase. 
  (The freecode camp, youtube and google has helped me a lot during my project.)
+ jaya nepal
 
 **Technologies Used:**
 Here are some technologies that i used for this project:
